@@ -1,1 +1,2 @@
-# hemo
+# HEMOTEC
+### O projeto HEMOTEC busca desenvolver um sistema de gestão de doação de sangue que tem como objetivo principal fornecer uma solução eficiente e integrada para a captação, gerenciamento e monitoramento das doações de sangue, melhorando a transparência e otimizando o processo de doação. Além de garantir um relacionamento mais integrado entre a unidade de coleta de sangue e o doador.
